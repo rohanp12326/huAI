@@ -1,3 +1,6 @@
+fastapi
+pydantic
+openpyxl
 networkx 
 matplotlib 
 graphviz
