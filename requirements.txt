@@ -9,3 +9,4 @@ openai
 requests
 token_count
 pydot
+nltk
